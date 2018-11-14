@@ -1,0 +1,10 @@
+body {
+  margin: .8%;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.leaflet-container {
+  height: 80vh;
+  width: 100%;
+}
